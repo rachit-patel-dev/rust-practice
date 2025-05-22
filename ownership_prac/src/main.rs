@@ -1,7 +1,7 @@
 use std::vec;
 
 fn main() {
-    println!("I'm the OWNER.");
+    println!("I'm the OWNER of EVERYTHING.");
 
     first();
 
