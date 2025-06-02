@@ -42,4 +42,15 @@ fn main() {
 
     // let home = IpAddr::V4(127, 0, 0, 1);
     // let loopback = IpAddr::V6(String::from("::1"));
+
+    // enum Option<T> with Some & None
+    // --------------------------------
+    // enum Option<T> {
+    //     Some(T),
+    //     None,
+    // }
+
+    // let some_number = Some(5);
+    // let some_char = Some('a');
+    // let absent_number: Option<i32> = None;
 }
